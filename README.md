@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development, data science and ML
 - 🌱 I’m currently learning python, seaborn
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me ...
+- 📫 Reach me at... alihaiderkhannews@gmail.com or try https://alihaiderkhan.com/
 
 <!---
 ArgonautAli/ArgonautAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
