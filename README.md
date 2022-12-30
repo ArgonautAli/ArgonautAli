@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArgonautAli
-- 👀 I’m interested in Web-development, AI & Data
-- 🌱 I’m currently learning python, seaborn
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Web-development & AI
+- 🌱 I’m currently learning nodejs, python
+- 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me at... alihaiderkhannews@gmail.com or try https://alihaiderkhan.com/
 
 <!---
