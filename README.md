@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArgonautAli
 - 👀 I’m interested in Web-development & AI
-- 🌱 I’m currently learning nodejs, python
+- 🌱 I’m currently learning NodeJs & NextJs
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me at... alihaiderkhannews@gmail.com or try https://alihaiderkhan.com/
 
