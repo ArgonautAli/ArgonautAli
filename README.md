@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArgonautAli
-- 👀 I’m interested in Web-development & AI/ML
-- 🌱 I’m currently learning supervised learning algorithms in ML
+- 👀 Your friendly neighbourhood web wizard & AI enthusiast!
+- 🌱 I'm interested in building large-scale, high-impact products that are performance driven.
 <!--- - 💞️ I’m looking to collaborate on web and AI --->
 - 📫 Reach me at... alihaiderkhannews@gmail.com or try https://alihaiderkhan.com/
 
