@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ArgonautAli
-- 👀 Your friendly neighbourhood web wizard & AI enthusiast!
-- 🌱 I'm interested in building large-scale, high-impact products that are performance driven.
+- 👋 Hi, I’m @ArgonautAli, your friendly neighbourhood web wizard & AI enthusiast!
+- 🚀 I'm a Sr. Engineer working in AI R&D.
+- 🌱 I have an experience in building large-scale, high-impact products that are performance driven.
+- 👀 Talk to me about building, shipping and deploying AI integrated web apps.
 <!--- - 💞️ I’m looking to collaborate on web and AI --->
-- 📫 Reach me at... alihaiderkhannews@gmail.com or try https://alihaiderkhan.com/
+- 📫 Reach me at... alihaiderkhannews@gmail.com or try [www.alihaiderkhan.com](https://alihaiderkhan.com/)
 
 <!---
 ArgonautAli/ArgonautAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
